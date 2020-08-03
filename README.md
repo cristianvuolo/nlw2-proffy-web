@@ -5,6 +5,8 @@ Proffy is a app to connect students to teachers.
   - Register as a teacher or student
   - Pick a time to learn/teach
   - Be greater!
+  
+![Image landing page](https://github.com/cristianvuolo/nlw2-proffy-web/blob/master/preview.png?raw=true)
 
 # Student Features
 
